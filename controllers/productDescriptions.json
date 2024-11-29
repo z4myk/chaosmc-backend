@@ -1,0 +1,62 @@
+{
+  "1234567": {
+    "description": "Descripción del producto 2 sin imagen.",
+    "imageUrl": "https://example.com/path/to/another-image.jpg"
+  },
+  "6198315": {
+    "description": "Al comprar esto recibirás x3 llaves de la crate Chaos en el servidor Diabolic Survival.  Procura tener espacio disponible en tu inventario.",
+    "imageUrl": "https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1400453/73483b9423ef33c66244aa1c11b68ab9c569183f.png"
+  },
+  "6198509": {
+    "description": "Al comprar esto recibirás solo una vez el Kit Minero en Diabolic Survival. Procura tener espacio disponible en tu inventario. Para ver el contenido del Kit utiliza /kit preview minero.",
+    "imageUrl": "https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1400453/9116afaf464cd587c83fcd9bc76828f58581f08a.png"
+  },
+  "6198514": {
+    "description": "Al comprar esto recibirás solo una vez el Kit Elytra en Diabolic Survival. Procura tener espacio disponible en tu inventario. Para ver el contenido del Kit utiliza /kit preview elytra.",
+    "imageUrl": "https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1400453/49c57f17e7d8948adb4bf603bf49912d3eaa1dec.png"
+  },
+  "6198519": {
+    "description": "Al comprar esto recibirás solo una vez el Kit PvP en Diabolic Survival. Procura tener espacio disponible en tu inventario. Para ver el contenido del Kit utiliza /kit preview pvp.",
+    "imageUrl": "https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1400453/625b0b68b442953cbc850b8bb160d6c634560cb2.png"
+  },
+  "6200290": {
+    "description": "Obtiene el permiso de /back para volver al ultimo lugar que estuviste antes de morir.",
+    "imageUrl": "https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1400453/0f6738d454a44a635ec7819adf7daab472895ce7.png"
+  },
+  "6200294": {
+    "description": "Obtiene el permiso de /fly para poder volar permanente.",
+    "imageUrl": "https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1400453/8fdaf5d478350a0c0ba544086a4e535421f6fe56.png"
+  },
+  "6200300": {
+    "description": "Obtiene el permiso de /REPAIR para poder reparar el item que tengas en mano.",
+    "imageUrl": "https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1400453/783a1b779e1f62948d1b841b85392d0bdb8aedc7.png"
+  },
+  "6201599": {
+    "description": "Al comprar esto recibirás solo una vez el Kit Verano en Diabolic Survival. Procura tener espacio disponible en tu inventario. Para ver el contenido del Kit utiliza /kit preview verano.",
+    "imageUrl": "https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1400453/508c4ab6938481b76437316077d4c1dbc48a1b8b.png"
+  },
+  "6214774": {
+    "description": "Al comprar esto recibirás solo una vez el Kit Verano OP en Diabolic Survival. Procura tener espacio disponible en tu inventario. Para ver el contenido del Kit utiliza /kit preview veranoop.",
+    "imageUrl": "https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1400453/97c588e8c97679614e483c2137ea909bf511259f.png"
+  },
+  "6232669": {
+    "description": "Al comprar esto, tendrás acceso al GKIT INFERNAL en INFERNAL BOX y podrás reclamarlo cada 7 días. Procura tener espacio disponible en tu inventario. Para ver el contenido del GKit utiliza /gkits. (Para visualizar el Gkit dentro del juego utiliza /kit preview infernal)",
+    "imageUrl": "https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1400453/f1f6453aca708feb3507acd8af9f9162a3c007e4.png"
+  },
+  "6232678": {
+    "description": "Al comprar esto recibirás x3 llaves de la crate Chaos en el servidor Infernal Box. Procura tener espacio disponible en tu inventario. (Utiliza /warp Crates para ver mas detallado el contenido de la Crate)",
+    "imageUrl": "https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1400453/e0e09c642e07d8ea01d99bdc2ed819be18c794a6.png"
+  },
+  "6232679": {
+    "description": "Al comprar esto recibirás x3 llaves de la crate Legendaria en el servidor Diabolic Survival. Procura tener espacio disponible en tu inventario. (Utiliza /warp Crates para ver mas detallado el contenido de la Crate)",
+    "imageUrl": "https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1400453/cdc9614611199664658c84cef66958bcd512fa62.png"
+  },
+  "6232681": {
+    "description": "Al comprar esto recibirás x3 llaves de la crate Rara en el servidor Infernal Box. Procura tener espacio disponible en tu inventario. (Utiliza /warp Crates para ver mas detallado el contenido de la Crate)",
+    "imageUrl": "https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1400453/eaa9210c18658d3461c31c4549dc4cc4787af75f.png"
+  },
+  "6311795": {
+    "description": "Al comprar esto recibirás x3 llaves de la crate Chaos en el servidor Void Gens.  Procura tener espacio disponible en tu inventario.",
+    "imageUrl": "https://dunb17ur4ymx4.cloudfront.net/packages/images/00bd2cfcab57a2e8a0528bf4bbb9d5493aa6cc67.png"
+  }
+}
